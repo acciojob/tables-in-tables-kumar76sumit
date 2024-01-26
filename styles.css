@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+#black{
+	background-color:black;
+	color:white;
+}
+*{
+	text-align:center;
+	table-layout:fixed;
+	width:100%;
+}
